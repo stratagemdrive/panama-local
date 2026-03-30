@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-03-30T00:04:38.981324+00:00",
-  "story_count": 6,
+  "last_updated": "2026-03-30T14:55:26.049074+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "What happened at Maduro's second court appearance",
@@ -25,11 +25,25 @@
       "category": "Military"
     },
     {
+      "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-30T14:46:15+00:00",
+      "category": "Energy"
+    },
+    {
       "title": "In one of country's poorest states, Venezuelans hope for post-Maduro boom",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3dlxvmr5n0o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-26T06:08:07+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-03-28T01:06:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",

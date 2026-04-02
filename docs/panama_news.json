@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-01T14:56:32.539397+00:00",
-  "story_count": 8,
+  "last_updated": "2026-04-02T00:01:08.599660+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "At least 16 killed, thousands displaced by gang attack in rural Haiti",
@@ -50,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-28T01:06:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-03-25T20:12:31+00:00",
       "category": "Local Events"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-03T12:05:46.430344+00:00",
-  "story_count": 5,
+  "last_updated": "2026-04-04T00:01:05.433559+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.com/news/articles/cql76l4221qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-03-31T12:02:46+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-03T20:59:48+00:00",
+      "category": "Energy"
     },
     {
       "title": "Russian oil tanker docks in Cuba ending near-total blockade",

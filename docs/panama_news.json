@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-08T05:31:04.894544+00:00",
-  "story_count": 3,
+  "last_updated": "2026-04-08T15:00:21.570255+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
@@ -9,6 +9,41 @@
       "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-02T11:55:37+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Co-founder of Jalisco New Generation drug cartel pleads guilty",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-08T11:03:40+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Honduran newlywed wife of US soldier freed by ICE after detention",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T22:29:28+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bahamas police search for US woman who reportedly fell off boat",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg9yxpdxlgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T15:02:10+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-06T23:09:23+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The US refinery now processing Venezuelan oil",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-07T23:00:31+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba begins releasing more than 2,000 prisoners as US pressure mounts",

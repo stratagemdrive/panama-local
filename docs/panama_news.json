@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-13T12:04:07.546566+00:00",
+  "last_updated": "2026-04-13T23:32:37.460165+00:00",
   "story_count": 8,
   "stories": [
     {
@@ -32,13 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "Fake Australian, Chinese and Brazilian police stations: BBC goes inside a seized scam compound",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjenpy8gx71o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-06T23:09:23+00:00",
-      "category": "Military"
-    },
-    {
       "title": "The US refinery now processing Venezuelan oil",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
@@ -58,6 +51,13 @@
       "url": "https://www.bbc.com/news/articles/c5y72e6x554o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-09T10:52:23+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Peru election drags into second day after ballot delivery fiasco",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-13T13:07:12+00:00",
+      "category": "Local Events"
     }
   ]
 }

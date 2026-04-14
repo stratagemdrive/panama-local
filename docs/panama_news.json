@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-14T11:58:01.457627+00:00",
-  "story_count": 10,
+  "last_updated": "2026-04-14T23:33:22.640137+00:00",
+  "story_count": 8,
   "stories": [
+    {
+      "title": "Brazil's former spy chief detained by ICE agents in US",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjw88l41ldyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-14T14:50:31+00:00",
+      "category": "Military"
+    },
     {
       "title": "Police officers among seven arrested over deadly Haiti stampede",
       "source": "BBC News",
@@ -23,27 +30,6 @@
       "url": "https://www.bbc.com/news/articles/c8ejyjnk9pdo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-08T11:03:40+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Honduran newlywed wife of US soldier freed by ICE after detention",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98kn1k3nreo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T22:29:28+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bahamas police search for US woman who reportedly fell off boat",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg9yxpdxlgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T15:02:10+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The US refinery now processing Venezuelan oil",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-07T23:00:31+00:00",
-      "category": "Energy"
     },
     {
       "title": "'Every drop of water counts': Fear for the future of Argentina's glaciers",

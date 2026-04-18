@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-18T11:35:57.437022+00:00",
-  "story_count": 5,
+  "last_updated": "2026-04-18T23:23:21.379561+00:00",
+  "story_count": 6,
   "stories": [
+    {
+      "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp86r29l45go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-18T21:27:56+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US eases sanctions on state-run Venezuelan banks",
       "source": "BBC News",

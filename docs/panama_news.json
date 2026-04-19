@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-18T23:23:21.379561+00:00",
-  "story_count": 6,
+  "last_updated": "2026-04-19T11:36:53.650102+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.com/news/articles/cd6llepv9gqo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-15T12:24:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Bodies of 50 infants dumped at Trinidad graveyard",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-19T07:49:45+00:00",
+      "category": "Military"
     },
     {
       "title": "Brazil's former spy chief detained by ICE agents in US",

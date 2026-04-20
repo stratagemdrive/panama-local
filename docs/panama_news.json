@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-19T23:25:08.203375+00:00",
-  "story_count": 7,
+  "last_updated": "2026-04-20T12:05:59.704977+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
@@ -37,6 +37,13 @@
       "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-14T09:49:45+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Police fire rubber bullets as Paraguay derby abandoned",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c5ylr2zdq78o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T08:55:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Retrial over death of Argentina legend Maradona to begin",

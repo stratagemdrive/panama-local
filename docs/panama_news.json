@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-20T12:05:59.704977+00:00",
-  "story_count": 8,
+  "last_updated": "2026-04-20T23:31:58.881845+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
@@ -50,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-14T10:21:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru election drags into second day after ballot delivery fiasco",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-13T13:07:12+00:00",
       "category": "Local Events"
     }
   ]

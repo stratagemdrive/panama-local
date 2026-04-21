@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-21T12:00:15.728413+00:00",
+  "last_updated": "2026-04-21T23:25:36.868464+00:00",
   "story_count": 6,
   "stories": [
     {
@@ -18,6 +18,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Mass trial for 486 alleged MS-13 gang members begins in El Salvador",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-21T12:48:09+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Police gunfight with favela gang traps 200 tourists on hilltop",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&at_campaign=rss",
@@ -29,13 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-19T07:49:45+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Brazil's former spy chief detained by ICE agents in US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjw88l41ldyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T14:50:31+00:00",
       "category": "Military"
     },
     {

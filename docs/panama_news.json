@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-20T23:31:58.881845+00:00",
-  "story_count": 7,
+  "last_updated": "2026-04-21T12:00:15.728413+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
@@ -18,6 +18,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Police gunfight with favela gang traps 200 tourists on hilltop",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjr9vvr904wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-20T17:34:10+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Bodies of 50 infants dumped at Trinidad graveyard",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/ce8jl1271pjo?at_medium=RSS&at_campaign=rss",
@@ -32,24 +39,10 @@
       "category": "Military"
     },
     {
-      "title": "Police officers among seven arrested over deadly Haiti stampede",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy811062y5yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T09:49:45+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Police fire rubber bullets as Paraguay derby abandoned",
       "source": "BBC News",
       "url": "https://www.bbc.com/sport/football/articles/c5ylr2zdq78o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-20T08:55:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Retrial over death of Argentina legend Maradona to begin",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj377mm7zzvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-14T10:21:21+00:00",
       "category": "Local Events"
     }
   ]

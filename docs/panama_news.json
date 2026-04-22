@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-21T23:25:36.868464+00:00",
-  "story_count": 6,
+  "last_updated": "2026-04-22T12:00:06.981654+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Mexico's Sheinbaum denies 'diplomatic crisis' with Spain after conquest row",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.com/news/articles/cd6llepv9gqo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-15T12:24:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "UAE-backed Colombian mercenaries provided support to Sudan paramilitary, report says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-22T04:01:50+00:00",
+      "category": "Military"
     },
     {
       "title": "Mass trial for 486 alleged MS-13 gang members begins in El Salvador",

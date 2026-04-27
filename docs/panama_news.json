@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-26T23:27:58.793688+00:00",
-  "story_count": 6,
+  "last_updated": "2026-04-27T12:20:46.079220+00:00",
+  "story_count": 8,
   "stories": [
+    {
+      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-27T11:42:59+00:00",
+      "category": "Military"
+    },
     {
       "title": "Death toll in Colombia highway bus bomb attack rises to 20",
       "source": "BBC News",
@@ -39,10 +46,17 @@
       "category": "Military"
     },
     {
-      "title": "Police fire rubber bullets as Paraguay derby abandoned",
+      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c5ylr2zdq78o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-20T08:55:30+00:00",
+      "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-24T05:42:44+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "I was at the top of Mexico pyramid when a gunman opened fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98m7338680o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-25T11:53:27+00:00",
       "category": "Local Events"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-28T12:23:52.881613+00:00",
+  "last_updated": "2026-04-28T23:42:36.083536+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -46,18 +46,18 @@
       "category": "Military"
     },
     {
-      "title": "Mass trial for 486 alleged MS-13 gang members begins in El Salvador",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c20ql985gryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-21T12:48:09+00:00",
-      "category": "Military"
-    },
-    {
       "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-24T05:42:44+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Will Mexico City's airport be ready for the World Cup?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T12:57:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "I was at the top of Mexico pyramid when a gunman opened fire",

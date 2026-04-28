@@ -1,8 +1,22 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-27T23:40:41.568887+00:00",
-  "story_count": 7,
+  "last_updated": "2026-04-28T12:23:52.881613+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "Mexican cartel leader found hiding in a ditch",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj6p2r9gk8go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T11:14:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "The other life of US soldier accused of betting on Maduro's removal",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T09:33:21+00:00",
+      "category": "Military"
+    },
     {
       "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
       "source": "BBC News",

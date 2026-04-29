@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-29T12:17:49.061580+00:00",
-  "story_count": 8,
+  "last_updated": "2026-04-29T23:41:24.095431+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd0p54j9r9vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-28T18:35:10+00:00",
+      "category": "Military"
+    },
     {
       "title": "Mexican cartel leader found hiding in a ditch",
       "source": "BBC News",

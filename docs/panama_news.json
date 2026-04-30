@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-04-29T23:41:24.095431+00:00",
-  "story_count": 9,
+  "last_updated": "2026-04-30T12:16:03.391792+00:00",
+  "story_count": 10,
   "stories": [
+    {
+      "title": "US charges Mexican governor and other leaders with aiding drug cartel",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-04-30T03:20:04+00:00",
+      "category": "Military"
+    },
     {
       "title": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
       "source": "BBC News",

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-02T11:46:59.105250+00:00",
-  "story_count": 9,
+  "last_updated": "2026-05-02T23:31:35.639482+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "US charges Mexican governor and other leaders with aiding drug cartel",
@@ -46,24 +46,10 @@
       "category": "Military"
     },
     {
-      "title": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T14:57:47+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Will Mexico City's airport be ready for the World Cup?",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-28T12:57:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "I was at the top of Mexico pyramid when a gunman opened fire",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98m7338680o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-25T11:53:27+00:00",
       "category": "Local Events"
     }
   ]

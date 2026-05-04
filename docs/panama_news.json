@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-03T23:32:42.004700+00:00",
-  "story_count": 6,
+  "last_updated": "2026-05-04T12:21:09.976794+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "US charges Mexican governor and other leaders with aiding drug cartel",
@@ -32,11 +32,25 @@
       "category": "Military"
     },
     {
-      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-27T11:42:59+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-02T04:57:02+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "Jury convicts former Florida congressman in Venezuela lobbying case",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1524vdn9dqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-03T14:36:27+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-01T05:58:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Will Mexico City's airport be ready for the World Cup?",

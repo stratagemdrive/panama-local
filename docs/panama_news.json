@@ -1,20 +1,13 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-05T12:03:58.625362+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-05T23:37:22.002495+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "US charges Mexican governor and other leaders with aiding drug cartel",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-04-30T03:20:04+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd0p54j9r9vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T18:35:10+00:00",
       "category": "Military"
     },
     {
@@ -43,13 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-01T05:58:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Will Mexico City's airport be ready for the World Cup?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cz7231qx88qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T12:57:13+00:00",
       "category": "Local Events"
     }
   ]

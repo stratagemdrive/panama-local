@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-04T23:40:59.013291+00:00",
-  "story_count": 8,
+  "last_updated": "2026-05-05T12:03:58.625362+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "US charges Mexican governor and other leaders with aiding drug cartel",
@@ -18,18 +18,11 @@
       "category": "Military"
     },
     {
-      "title": "Mexican cartel leader found hiding in a ditch",
+      "title": "Nine coal miners die in gas explosion in Colombia",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj6p2r9gk8go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T11:14:25+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "The other life of US soldier accused of betting on Maduro's removal",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyxd5wrr0wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-04-28T09:33:21+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-05T10:09:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",

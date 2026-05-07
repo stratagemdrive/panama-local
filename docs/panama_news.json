@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-07T12:57:38.617892+00:00",
-  "story_count": 4,
+  "last_updated": "2026-05-07T23:41:31.606633+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Nine coal miners die in gas explosion in Colombia",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-02T04:57:02+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Five killed in huge fire at packed Mexico fairground",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-07T21:08:35+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jury convicts former Florida congressman in Venezuela lobbying case",

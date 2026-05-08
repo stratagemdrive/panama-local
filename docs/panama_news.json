@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-07T23:41:31.606633+00:00",
-  "story_count": 5,
+  "last_updated": "2026-05-08T12:08:50.992000+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Nine coal miners die in gas explosion in Colombia",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c1524vdn9dqo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-03T14:36:27+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-01T05:58:20+00:00",
       "category": "Local Events"
     }
   ]

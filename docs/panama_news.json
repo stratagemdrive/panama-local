@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-09T11:52:28.653564+00:00",
-  "story_count": 3,
+  "last_updated": "2026-05-09T23:34:57.148487+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Nine coal miners die in gas explosion in Colombia",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-05T10:09:23+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Mexican parents criticise ending school year a month early for World Cup",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-09T19:40:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Five killed in huge fire at packed Mexico fairground",

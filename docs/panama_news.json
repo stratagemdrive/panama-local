@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-12T13:03:45.479540+00:00",
-  "story_count": 6,
+  "last_updated": "2026-05-12T23:47:53.456532+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
@@ -15,6 +15,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-12T10:52:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC visits Argentine city in hunt for hantavirus outbreak origins",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/clypny91kveo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T12:15:13+00:00",
       "category": "Local Events"
     },
     {

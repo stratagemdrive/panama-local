@@ -1,14 +1,28 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-11T23:44:24.939468+00:00",
-  "story_count": 4,
+  "last_updated": "2026-05-12T13:03:45.479540+00:00",
+  "story_count": 6,
   "stories": [
     {
-      "title": "Nine coal miners die in gas explosion in Colombia",
+      "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxpe02y05go?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-05T10:09:23+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/clypng12xq5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T02:48:45+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico cancels plans to end school year early for World Cup",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-12T10:52:14+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-11T07:53:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-14T12:25:43.568620+00:00",
-  "story_count": 8,
+  "last_updated": "2026-05-14T23:43:16.652155+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
@@ -50,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-09T19:40:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Five killed in huge fire at packed Mexico fairground",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6py38q81ro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-07T21:08:35+00:00",
       "category": "Local Events"
     }
   ]

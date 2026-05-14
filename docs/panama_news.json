@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-13T23:45:42.675169+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-14T12:25:43.568620+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.com/news/articles/clypng12xq5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-12T02:48:45+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba has run out of diesel and oil, energy minister says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-14T09:06:23+00:00",
+      "category": "Energy"
     },
     {
       "title": "Mexico cancels plans to end school year early for World Cup",

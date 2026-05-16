@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-16T11:52:12.955737+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-16T23:38:40.443069+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
@@ -43,13 +43,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-10T20:05:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-09T19:40:55+00:00",
       "category": "Local Events"
     }
   ]

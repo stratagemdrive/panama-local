@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-17T12:00:28.593786+00:00",
-  "story_count": 6,
+  "last_updated": "2026-05-17T23:44:41.240550+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
@@ -36,13 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-11T07:53:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourist hotspot at 'end of the world' denies causing hantavirus outbreak",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-10T20:05:53+00:00",
       "category": "Local Events"
     }
   ]

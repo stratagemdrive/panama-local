@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-17T23:44:41.240550+00:00",
+  "last_updated": "2026-05-18T14:30:12.994581+00:00",
   "story_count": 5,
   "stories": [
+    {
+      "title": "Cuba accuses US of building 'fraudulent case' for military action",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-18T10:55:04+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
       "source": "BBC News",
@@ -18,24 +25,17 @@
       "category": "Energy"
     },
     {
+      "title": "Shakira wins £50m tax refund from Spanish government",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-18T11:58:54+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Mexico cancels plans to end school year early for World Cup",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-12T10:52:14+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC visits Argentine city in hunt for hantavirus outbreak origins",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/clypny91kveo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T12:15:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC tests out England and Argentina's World Cup training grounds in Kansas City",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/clypw107dqzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-11T07:53:53+00:00",
       "category": "Local Events"
     }
   ]

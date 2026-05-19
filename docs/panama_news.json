@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-18T23:53:11.349664+00:00",
+  "last_updated": "2026-05-19T13:55:56.583468+00:00",
   "story_count": 5,
   "stories": [
     {
@@ -11,11 +11,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump ally Kari Lake tapped to be US ambassador to Jamaica",
+      "title": "Honduran ex-president controversially pardoned by Trump speaks to BBC",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypng12xq5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T02:48:45+00:00",
-      "category": "Diplomacy"
+      "url": "https://www.bbc.com/news/articles/clyp36dwnezo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-19T11:46:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Anti-government demonstrators and police clash in Bolivia",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-19T11:37:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Cuba has run out of diesel and oil, energy minister says",
@@ -30,13 +37,6 @@
       "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-18T11:58:54+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Mexico cancels plans to end school year early for World Cup",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy02w7nzdg1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-12T10:52:14+00:00",
-      "category": "Local Events"
     }
   ]
 }

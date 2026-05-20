@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-19T23:51:35.604039+00:00",
-  "story_count": 5,
+  "last_updated": "2026-05-20T13:39:47.763117+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Cuba accuses US of building 'fraudulent case' for military action",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-18T10:55:04+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Watch key moments from BBC's interview with pardoned Honduran ex-president",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/crlp5590rgzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-19T20:07:53+00:00",
+      "category": "Military"
     },
     {
       "title": "Honduran ex-president controversially pardoned by Trump speaks to BBC",

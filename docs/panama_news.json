@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-20T23:58:59.624148+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-21T14:14:44.877317+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Cuba accuses US of building 'fraudulent case' for military action",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-18T10:55:04+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "The deadly plane attack at the centre of Castro's indictment",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3pz43k99xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-20T18:14:10+00:00",
+      "category": "Military"
     },
     {
       "title": "US military jets and drones tracked near Cuba as tensions rise",
@@ -39,18 +46,18 @@
       "category": "Military"
     },
     {
-      "title": "Cuba has run out of diesel and oil, energy minister says",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-14T09:06:23+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Shakira wins £50m tax refund from Spanish government",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cd9pzd14vj5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-18T11:58:54+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-21T13:07:02+00:00",
+      "category": "Local Events"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-22T13:32:20.407912+00:00",
-  "story_count": 9,
+  "last_updated": "2026-05-22T23:54:48.604185+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -16,6 +16,20 @@
       "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-18T10:55:04+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cr5pl7jevyro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-22T20:49:25+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Trump is putting pressure on Cuba - why and to what end?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-22T18:33:36+00:00",
+      "category": "Military"
     },
     {
       "title": "The deadly plane attack at the centre of Castro's indictment",
@@ -51,6 +65,13 @@
       "url": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-19T11:37:51+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-22T09:32:42+00:00",
+      "category": "Energy"
     },
     {
       "title": "Shakira wins £50m tax refund from Spanish government",

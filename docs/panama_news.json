@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-23T23:44:45.534284+00:00",
-  "story_count": 12,
+  "last_updated": "2026-05-24T12:00:41.445761+00:00",
+  "story_count": 13,
   "stories": [
     {
       "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.com/news/articles/ckgpyg9peq9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-18T10:55:04+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-24T11:42:48+00:00",
+      "category": "Military"
     },
     {
       "title": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",

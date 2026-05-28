@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-27T23:52:51.204504+00:00",
-  "story_count": 10,
+  "last_updated": "2026-05-28T14:37:52.037552+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -64,13 +64,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-25T11:13:45+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-21T13:07:02+00:00",
       "category": "Local Events"
     }
   ]

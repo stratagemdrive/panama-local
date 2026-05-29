@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-28T23:59:35.467475+00:00",
-  "story_count": 8,
+  "last_updated": "2026-05-29T14:09:18.282037+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Bolivian Congress allows deployment of troops to quell protests",
@@ -37,13 +37,6 @@
       "url": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-22T18:33:36+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-22T09:32:42+00:00",
-      "category": "Energy"
     },
     {
       "title": "How Cuba is addressing its housing crisis with shipping containers",

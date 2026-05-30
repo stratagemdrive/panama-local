@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-30T12:04:56.720884+00:00",
-  "story_count": 5,
+  "last_updated": "2026-05-30T23:48:59.920075+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Bolivian Congress allows deployment of troops to quell protests",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.com/news/videos/cy92r54rjqro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-28T14:25:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Ecuador accused of meddling in Colombian election with tariff vow",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-30T20:40:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",

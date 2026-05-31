@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-31T12:12:03.372880+00:00",
-  "story_count": 7,
+  "last_updated": "2026-05-31T23:53:20.530121+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Bolivian Congress allows deployment of troops to quell protests",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.com/news/videos/cy92r54rjqro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-28T14:25:10+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Nicaraguan indigenous leader dies after three years in prison",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-05-31T21:52:38+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Colombia votes in presidential election that could redefine relations with US",

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-05-31T23:53:20.530121+00:00",
-  "story_count": 8,
+  "last_updated": "2026-06-01T16:38:53.536902+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Bolivian Congress allows deployment of troops to quell protests",
@@ -50,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/czx2zndk7elo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-30T20:40:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-25T11:13:45+00:00",
       "category": "Local Events"
     }
   ]

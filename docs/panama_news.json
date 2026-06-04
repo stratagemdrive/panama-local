@@ -1,21 +1,42 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-04T13:57:39.926060+00:00",
-  "story_count": 5,
+  "last_updated": "2026-06-04T23:57:52.483965+00:00",
+  "story_count": 8,
   "stories": [
+    {
+      "title": "Canada formally requests 16-year renewal of North American free trade pact",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-03T01:40:44+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Robodogs and helicopters: One Mexican city's approach to World Cup security",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c4g4n4nzl2yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T05:42:34+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Video shows elaborate drug-smuggling tunnel between US and Mexico",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cyv2dy3e32eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-02T21:23:11+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Delcy Rodríguez visits India: Will oil talks lead to an energy deal?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czx29k97kzlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T05:28:25+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-31T00:11:56+00:00",
       "category": "Energy"
-    },
-    {
-      "title": "How Cuba is addressing its housing crisis with shipping containers",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cy92r54rjqro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-28T14:25:10+00:00",
-      "category": "Economy"
     },
     {
       "title": "Nicaraguan indigenous leader dies after three years in prison",

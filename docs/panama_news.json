@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-05T13:52:21.446987+00:00",
-  "story_count": 8,
+  "last_updated": "2026-06-05T23:56:19.667793+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "Canada formally requests 16-year renewal of North American free trade pact",
@@ -37,6 +37,13 @@
       "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-31T00:11:56+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Protesters topple World Cup player statues in Mexico City",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cqlplddez4xo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-04T21:24:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Nicaraguan indigenous leader dies after three years in prison",

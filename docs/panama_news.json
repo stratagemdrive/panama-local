@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-06T23:54:01.290904+00:00",
-  "story_count": 8,
+  "last_updated": "2026-06-07T12:21:23.697618+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Canada formally requests 16-year renewal of North American free trade pact",
@@ -32,11 +32,11 @@
       "category": "Energy"
     },
     {
-      "title": "Cuba’s blackouts leave high-rise residents with constant uncertainty",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c809nj57drxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T00:11:56+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-06T23:17:43+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Protesters topple World Cup player statues in Mexico City",
@@ -50,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-05-31T21:52:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia votes in presidential election that could redefine relations with US",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T08:47:46+00:00",
       "category": "Local Events"
     }
   ]

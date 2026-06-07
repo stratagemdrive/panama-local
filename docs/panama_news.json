@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-07T12:21:23.697618+00:00",
+  "last_updated": "2026-06-07T23:55:11.651758+00:00",
   "story_count": 7,
   "stories": [
     {
@@ -32,6 +32,13 @@
       "category": "Energy"
     },
     {
+      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-07T16:03:41+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Insecurity and instability drive voters in Peru's tight presidential race",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
@@ -43,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/videos/cqlplddez4xo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-04T21:24:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nicaraguan indigenous leader dies after three years in prison",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzyyrzj1jo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-05-31T21:52:38+00:00",
       "category": "Local Events"
     }
   ]

@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-11T14:38:08.354434+00:00",
+  "last_updated": "2026-06-12T00:11:59.930563+00:00",
   "story_count": 4,
   "stories": [
+    {
+      "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-11T23:41:14+00:00",
+      "category": "Military"
+    },
     {
       "title": "Peru election result close as vote counting continues",
       "source": "BBC News",
@@ -22,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-06T23:17:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protesters topple World Cup player statues in Mexico City",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cqlplddez4xo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-04T21:24:01+00:00",
       "category": "Local Events"
     }
   ]

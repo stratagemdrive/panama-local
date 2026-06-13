@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-13T12:26:27.594161+00:00",
-  "story_count": 4,
+  "last_updated": "2026-06-13T23:55:06.580212+00:00",
+  "story_count": 3,
   "stories": [
     {
       "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
@@ -22,13 +22,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-07T16:03:41+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-06T23:17:43+00:00",
       "category": "Local Events"
     }
   ]

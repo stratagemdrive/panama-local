@@ -1,8 +1,22 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-13T23:55:06.580212+00:00",
-  "story_count": 3,
+  "last_updated": "2026-06-14T12:59:25.764583+00:00",
+  "story_count": 5,
   "stories": [
+    {
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-14T06:39:29+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Watch: Peru police dress up as World Cup mascots during drug raid",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cz6vpxn5y00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-13T02:58:59+00:00",
+      "category": "Military"
+    },
     {
       "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
       "source": "BBC News",

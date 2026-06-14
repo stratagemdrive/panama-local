@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-14T12:59:25.764583+00:00",
-  "story_count": 5,
+  "last_updated": "2026-06-14T23:58:11.248828+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-09T00:03:38+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexicans chase a world record wave - but is the trend even Mexican?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2ly1q0940qo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-07T16:03:41+00:00",
       "category": "Local Events"
     }
   ]

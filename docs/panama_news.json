@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-15T16:17:51.892916+00:00",
-  "story_count": 5,
+  "last_updated": "2026-06-16T00:19:46.749851+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
@@ -30,13 +30,6 @@
       "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-11T23:41:14+00:00",
       "category": "Military"
-    },
-    {
-      "title": "Peru election result close as vote counting continues",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewq151pw78o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-09T00:03:38+00:00",
-      "category": "Local Events"
     }
   ]
 }

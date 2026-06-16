@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-16T00:19:46.749851+00:00",
-  "story_count": 4,
+  "last_updated": "2026-06-16T15:55:44.905399+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T11:16:59+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
       "source": "BBC News",
@@ -30,6 +37,20 @@
       "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-11T23:41:14+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T15:19:52+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "'Daylight robbery but worth it' - what fans are spending on World Cup",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-16T10:08:20+00:00",
+      "category": "Economy"
     }
   ]
 }

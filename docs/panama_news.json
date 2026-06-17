@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-17T00:06:39.491159+00:00",
-  "story_count": 7,
+  "last_updated": "2026-06-17T14:25:45.779147+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Cuba tourism collapses as US pressure campaign bites",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-16T11:16:59+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-17T12:01:04+00:00",
+      "category": "Military"
     },
     {
       "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",

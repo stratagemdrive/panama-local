@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-19T23:58:23.237531+00:00",
+  "last_updated": "2026-06-20T12:28:51.749424+00:00",
   "story_count": 7,
   "stories": [
     {
@@ -32,13 +32,6 @@
       "category": "Military"
     },
     {
-      "title": "Watch: Peru police dress up as World Cup mascots during drug raid",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cz6vpxn5y00o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-13T02:58:59+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Venezuela signs deal with US energy giant to rebuild power grid",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
@@ -51,6 +44,13 @@
       "url": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-16T10:08:20+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T07:40:20+00:00",
+      "category": "Local Events"
     }
   ]
 }

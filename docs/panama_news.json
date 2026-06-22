@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-21T13:07:05.251980+00:00",
-  "story_count": 6,
+  "last_updated": "2026-06-22T00:01:36.426699+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Cuba tourism collapses as US pressure campaign bites",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-16T11:16:59+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T23:17:51+00:00",
+      "category": "Military"
     },
     {
       "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",

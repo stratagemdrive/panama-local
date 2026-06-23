@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-22T23:57:42.554766+00:00",
-  "story_count": 10,
+  "last_updated": "2026-06-23T13:43:11.703239+00:00",
+  "story_count": 14,
   "stories": [
     {
       "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
@@ -11,10 +11,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cuba tourism collapses as US pressure campaign bites",
+      "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T11:16:59+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-19T05:41:27+00:00",
       "category": "Diplomacy"
     },
     {
@@ -29,6 +29,20 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-18T09:26:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-18T09:26:16+00:00",
+      "category": "Military"
+    },
+    {
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-18T09:19:10+00:00",
       "category": "Military"
     },
     {
@@ -53,10 +67,10 @@
       "category": "Economy"
     },
     {
-      "title": "'Daylight robbery but worth it' - what fans are spending on World Cup",
+      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy73xe2006po?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-16T10:08:20+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T02:33:30+00:00",
       "category": "Economy"
     },
     {
@@ -64,6 +78,20 @@
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-22T03:31:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-22T03:31:40+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tourist dies in Dominican Republic luxury resort fire",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-20T17:33:25+00:00",
       "category": "Local Events"
     },
     {

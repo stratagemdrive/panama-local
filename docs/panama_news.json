@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-24T23:55:11.452066+00:00",
-  "story_count": 12,
+  "last_updated": "2026-06-25T13:20:10.555644+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
@@ -25,27 +25,6 @@
       "category": "Military"
     },
     {
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T09:26:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Suspected gang leader shot dead in flower bouquet ambush at airport",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy2l30dd0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T09:26:16+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivia signs $20m deal with US to fight drug trafficking",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-18T09:19:10+00:00",
-      "category": "Military"
-    },
-    {
       "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
@@ -58,6 +37,20 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-20T02:33:30+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-25T10:48:09+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers search through rubble for Venezuela earthquake survivors",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c36y413gy08o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-25T05:01:31+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Trump-backed political outsider wins Colombia election, initial count shows",

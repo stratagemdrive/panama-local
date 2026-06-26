@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-25T13:20:10.555644+00:00",
-  "story_count": 11,
+  "last_updated": "2026-06-26T00:01:54.731385+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
@@ -37,6 +37,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-20T02:33:30+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-25T13:09:58+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'I thought I was going to die' - Venezuelans describe earthquake panic",

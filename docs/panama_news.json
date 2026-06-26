@@ -1,22 +1,8 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-26T00:01:54.731385+00:00",
-  "story_count": 12,
+  "last_updated": "2026-06-26T13:12:34.519474+00:00",
+  "story_count": 11,
   "stories": [
-    {
-      "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T05:41:27+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-19T05:41:27+00:00",
-      "category": "Diplomacy"
-    },
     {
       "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
       "source": "BBC News",
@@ -37,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-20T02:33:30+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Most Venezuelan city in the US rallies to help after quakes",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c62151r0k68o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-26T08:38:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",

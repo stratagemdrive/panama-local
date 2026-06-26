@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-26T13:12:34.519474+00:00",
-  "story_count": 11,
+  "last_updated": "2026-06-26T23:52:00.194509+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
@@ -29,6 +29,13 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c62151r0k68o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-26T08:38:50+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-26T02:18:04+00:00",
       "category": "Local Events"
     },
     {

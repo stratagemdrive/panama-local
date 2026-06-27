@@ -1,14 +1,28 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-27T12:09:16.325859+00:00",
-  "story_count": 9,
+  "last_updated": "2026-06-27T23:50:18.546802+00:00",
+  "story_count": 10,
   "stories": [
     {
-      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T23:17:51+00:00",
+      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T18:41:03+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2d0rjg4l3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T21:33:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Newborn baby rescued from Venezuela earthquake rubble",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-27T12:51:25+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Most Venezuelan city in the US rallies to help after quakes",
@@ -57,13 +71,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-22T03:31:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-20T17:33:25+00:00",
       "category": "Local Events"
     }
   ]

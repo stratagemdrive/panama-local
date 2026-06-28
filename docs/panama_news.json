@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-28T12:16:44.635839+00:00",
-  "story_count": 10,
+  "last_updated": "2026-06-28T23:56:40.351130+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-27T18:41:03+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T17:32:30+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Panic attacks and fractures - Venezuela hospital treats earthquake victims",

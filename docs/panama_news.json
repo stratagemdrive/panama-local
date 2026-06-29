@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-28T23:56:40.351130+00:00",
-  "story_count": 11,
+  "last_updated": "2026-06-29T14:47:39.654214+00:00",
+  "story_count": 12,
   "stories": [
     {
       "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
@@ -11,10 +11,31 @@
       "category": "Military"
     },
     {
+      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-29T07:51:05+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger directed at Venezuela's official response to earthquake recovery",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-29T03:35:09+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Watch: Inside the Venezuela country club now a makeshift hospital",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/clyx5r0068go?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-28T17:32:30+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-28T03:15:06+00:00",
       "category": "Local Events"
     },
     {
@@ -64,20 +85,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c36y413gy08o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-25T05:01:31+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T03:31:40+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-22T03:31:40+00:00",
       "category": "Local Events"
     }
   ]

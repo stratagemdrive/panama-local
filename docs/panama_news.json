@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-06-30T23:55:22.748968+00:00",
-  "story_count": 16,
+  "last_updated": "2026-07-01T13:34:06.647224+00:00",
+  "story_count": 19,
   "stories": [
     {
       "title": "Watch: A race against the clock for Venezuela earthquake rescuers",
@@ -18,10 +18,31 @@
       "category": "Economy"
     },
     {
+      "title": "Three die in Mexico City World Cup celebrations",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-01T11:01:12+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-01T06:10:43+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-30T21:30:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ecuador make Mexico fans hotel noise complaint",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyrgng719eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-06-30T19:30:52+00:00",
       "category": "Local Events"
     },
     {

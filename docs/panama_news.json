@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-02T12:58:47.264523+00:00",
-  "story_count": 19,
+  "last_updated": "2026-07-02T23:53:00.779076+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -127,13 +127,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-26T02:18:04+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-25T13:09:58+00:00",
       "category": "Local Events"
     }
   ]

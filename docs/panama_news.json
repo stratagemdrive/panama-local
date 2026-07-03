@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-02T23:53:00.779076+00:00",
-  "story_count": 18,
+  "last_updated": "2026-07-03T12:56:32.925488+00:00",
+  "story_count": 16,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -113,20 +113,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cm2d0vzp3ngo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-27T12:51:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Most Venezuelan city in the US rallies to help after quakes",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c62151r0k68o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T08:38:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Supreme Court allows Trump to end protected status for Haitian and Syrian immigrants",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-26T02:18:04+00:00",
       "category": "Local Events"
     }
   ]

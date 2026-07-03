@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-03T12:56:32.925488+00:00",
-  "story_count": 16,
+  "last_updated": "2026-07-03T23:53:21.188084+00:00",
+  "story_count": 17,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-29T23:32:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-03T21:00:53+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Three die in Mexico City World Cup celebrations",

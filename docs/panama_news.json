@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-03T23:53:21.188084+00:00",
-  "story_count": 17,
+  "last_updated": "2026-07-04T12:07:09.742901+00:00",
+  "story_count": 18,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-29T23:32:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-04T07:52:55+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",

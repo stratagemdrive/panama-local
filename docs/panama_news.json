@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-05T23:52:40.528585+00:00",
-  "story_count": 13,
+  "last_updated": "2026-07-06T14:26:09.193877+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-29T23:32:52+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "How Mexico's World Cup run brought joy after a year of fear",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wwdn6n15o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-06T05:29:00+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
@@ -71,27 +78,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-06-30T03:53:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "BBC at Venezuela baseball stadium sheltering earthquake survivors",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c5yz392v508o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T11:50:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyw3rkj2p7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T07:51:05+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anger directed at Venezuela's official response to earthquake recovery",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cj4glezz1jvo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-29T03:35:09+00:00",
       "category": "Local Events"
     }
   ]

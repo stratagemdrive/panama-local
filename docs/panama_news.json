@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-07T13:21:20.765487+00:00",
-  "story_count": 13,
+  "last_updated": "2026-07-07T23:42:51.599838+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -78,20 +78,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-01T06:10:43+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three-year-old rescued and taken to hospital six days after Venezuela quake",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1jykwk8n18o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T21:30:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ecuador make Mexico fans hotel noise complaint",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/clyrgng719eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-06-30T19:30:52+00:00",
       "category": "Local Events"
     }
   ]

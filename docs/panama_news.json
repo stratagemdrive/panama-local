@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-07T23:42:51.599838+00:00",
-  "story_count": 11,
+  "last_updated": "2026-07-08T12:21:16.512837+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "Why the expected fight over the North American trade deal never kicked off",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-06T17:24:31+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Cubans protest after third nationwide power cut this year",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm20g0d3ry4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-08T10:56:55+00:00",
+      "category": "Energy"
     },
     {
       "title": "Mbappe condemns racist posts from Paraguay senator",
@@ -64,20 +71,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-03T21:00:53+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three die in Mexico City World Cup celebrations",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T11:01:12+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-01T06:10:43+00:00",
       "category": "Local Events"
     }
   ]

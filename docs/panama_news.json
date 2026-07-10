@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-10T13:12:21.456367+00:00",
-  "story_count": 8,
+  "last_updated": "2026-07-10T23:44:30.110348+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "More than 1,000 arrested as part of global human trafficking crackdown",
@@ -50,13 +50,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-04T07:52:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-03T21:00:53+00:00",
       "category": "Local Events"
     }
   ]

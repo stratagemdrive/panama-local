@@ -1,20 +1,13 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-13T13:24:16.123507+00:00",
-  "story_count": 6,
+  "last_updated": "2026-07-13T23:39:59.728497+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-13T00:05:46+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "More than 1,000 arrested as part of global human trafficking crackdown",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T17:24:31+00:00",
       "category": "Military"
     },
     {
@@ -36,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-07T08:51:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'It's a very sad day' - Mexican fans react to loss to England",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cn5999n95epo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-06T16:43:51+00:00",
       "category": "Local Events"
     }
   ]

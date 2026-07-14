@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-13T23:39:59.728497+00:00",
+  "last_updated": "2026-07-14T12:13:08.893359+00:00",
   "story_count": 4,
   "stories": [
+    {
+      "title": "Argentina to wear 'lucky' blue away kit against England",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/czx5v2p7qkgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-13T12:14:11+00:00",
+      "category": "Military"
+    },
     {
       "title": "The Chinese graduate accused of being Mexico's 'fentanyl king'",
       "source": "BBC News",
@@ -22,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-13T10:30:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mbappe condemns racist posts from Paraguay senator",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-07T08:51:24+00:00",
       "category": "Local Events"
     }
   ]

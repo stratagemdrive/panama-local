@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-17T12:09:44.567659+00:00",
-  "story_count": 3,
+  "last_updated": "2026-07-17T23:39:39.356126+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Argentina to wear 'lucky' blue away kit against England",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-13T00:05:46+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T18:12:54+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Men disguised as police kill Ecuadorean drug lord's brother",

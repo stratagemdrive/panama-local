@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-17T23:39:39.356126+00:00",
-  "story_count": 4,
+  "last_updated": "2026-07-18T11:53:02.984880+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Argentina to wear 'lucky' blue away kit against England",
@@ -16,6 +16,20 @@
       "url": "https://www.bbc.co.uk/news/articles/c39ymggglxeo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-13T00:05:46+00:00",
       "category": "Military"
+    },
+    {
+      "title": "White House defends Argentina team over Falklands banner",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T22:12:54+00:00",
+      "category": "Energy"
+    },
+    {
+      "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-17T23:24:37+00:00",
+      "category": "Economy"
     },
     {
       "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",

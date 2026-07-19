@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-18T23:39:19.995123+00:00",
-  "story_count": 6,
+  "last_updated": "2026-07-19T11:59:07.522590+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Argentina to wear 'lucky' blue away kit against England",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-17T22:12:54+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-19T09:59:41+00:00",
+      "category": "Economy"
     },
     {
       "title": "How these twins' rare growth disorder could provide the key to preventing cancer",

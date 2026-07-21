@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-20T23:44:06.278668+00:00",
-  "story_count": 5,
+  "last_updated": "2026-07-21T12:23:40.843899+00:00",
+  "story_count": 6,
   "stories": [
+    {
+      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-20T21:03:24+00:00",
+      "category": "Military"
+    },
     {
       "title": "White House defends Argentina team over Falklands banner",
       "source": "BBC News",

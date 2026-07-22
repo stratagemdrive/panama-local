@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-22T12:25:07.922105+00:00",
-  "story_count": 6,
+  "last_updated": "2026-07-22T23:51:24.057708+00:00",
+  "story_count": 8,
   "stories": [
+    {
+      "title": "Former Venezuelan President Nicolás Maduro to face trial next June",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5936455gmo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T17:59:40+00:00",
+      "category": "Military"
+    },
     {
       "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
       "source": "BBC News",
@@ -30,6 +37,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-17T23:24:37+00:00",
       "category": "Economy"
+    },
+    {
+      "title": "Fire kills 10 members of same family in Peru, police say",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-22T20:56:26+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tributes paid to influential soul singer Ray King",

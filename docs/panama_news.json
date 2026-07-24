@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-24T12:19:13.481348+00:00",
-  "story_count": 9,
+  "last_updated": "2026-07-24T23:51:54.091648+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Former Venezuelan President Nicolás Maduro to face trial next June",
@@ -18,24 +18,10 @@
       "category": "Military"
     },
     {
-      "title": "White House defends Argentina team over Falklands banner",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T22:12:54+00:00",
-      "category": "Energy"
-    },
-    {
       "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-19T09:59:41+00:00",
-      "category": "Economy"
-    },
-    {
-      "title": "How these twins' rare growth disorder could provide the key to preventing cancer",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T23:24:37+00:00",
       "category": "Economy"
     },
     {
@@ -57,13 +43,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cg7mg4ev8vko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-20T10:32:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-17T18:12:54+00:00",
       "category": "Local Events"
     }
   ]

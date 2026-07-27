@@ -1,20 +1,20 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-27T13:39:17.007202+00:00",
+  "last_updated": "2026-07-27T23:52:00.134791+00:00",
   "story_count": 4,
   "stories": [
+    {
+      "title": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3w0xwj8vzyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-27T15:49:45+00:00",
+      "category": "Military"
+    },
     {
       "title": "Former Venezuelan President Nicolás Maduro to face trial next June",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cr5936455gmo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-22T17:59:40+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Notorious drug cartel leader Ismael Zambada sentenced to life in US prison",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-20T21:03:24+00:00",
       "category": "Military"
     },
     {

@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-29T13:01:09.016932+00:00",
-  "story_count": 6,
+  "last_updated": "2026-07-29T23:49:53.365905+00:00",
+  "story_count": 4,
   "stories": [
+    {
+      "title": "Peru's new president says military will lead crime operations in emergencies",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crmrkpk9dlno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-28T22:01:51+00:00",
+      "category": "Military"
+    },
     {
       "title": "Confronting gang members at the heart of Ecuador's drug battle",
       "source": "BBC News",
@@ -18,31 +25,10 @@
       "category": "Military"
     },
     {
-      "title": "Former Venezuelan President Nicolás Maduro to face trial next June",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5936455gmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T17:59:40+00:00",
-      "category": "Military"
-    },
-    {
       "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-28T05:01:19+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: What it was like inside Maduro's court hearing",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvg841yw7keo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T22:16:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fire kills 10 members of same family in Peru, police say",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-22T20:56:26+00:00",
       "category": "Local Events"
     }
   ]

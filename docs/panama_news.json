@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-07-30T23:50:13.757847+00:00",
-  "story_count": 6,
+  "last_updated": "2026-07-31T12:56:29.090293+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Peru's new president says military will lead crime operations in emergencies",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-30T10:34:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-07-31T10:32:17+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",

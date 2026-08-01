@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-01T12:02:17.609703+00:00",
-  "story_count": 7,
+  "last_updated": "2026-08-01T23:44:54.822545+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Peru's new president says military will lead crime operations in emergencies",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-30T10:34:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-01T22:34:20+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",

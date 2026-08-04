@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-04T13:02:33.538569+00:00",
-  "story_count": 6,
+  "last_updated": "2026-08-04T23:51:10.404359+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Guatemala volcano eruption sends lava spewing into the air",
@@ -9,13 +9,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-04T10:56:50+00:00",
       "category": "Diplomacy"
-    },
-    {
-      "title": "Peru's new president says military will lead crime operations in emergencies",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crmrkpk9dlno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-28T22:01:51+00:00",
-      "category": "Military"
     },
     {
       "title": "Nicaraguan leader proposes extending presidential term by another year",

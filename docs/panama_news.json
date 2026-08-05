@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-04T23:51:10.404359+00:00",
-  "story_count": 5,
+  "last_updated": "2026-08-05T12:53:03.103210+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "US revokes Brazil ambassador's visa as diplomatic tensions escalate",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wpww7dyro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-05T00:16:02+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Guatemala volcano eruption sends lava spewing into the air",
       "source": "BBC News",
@@ -16,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-30T10:34:07+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-04T23:13:01+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Tourist plane crashes in Peru, killing 13",

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-07T01:39:09.225455+00:00",
-  "story_count": 5,
+  "last_updated": "2026-08-07T11:45:39.943499+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "US revokes Brazil ambassador's visa as diplomatic tensions escalate",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-01T22:34:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-31T10:32:17+00:00",
       "category": "Local Events"
     }
   ]

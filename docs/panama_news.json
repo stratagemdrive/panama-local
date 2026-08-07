@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-06T12:56:56.082852+00:00",
-  "story_count": 6,
+  "last_updated": "2026-08-07T01:39:09.225455+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "US revokes Brazil ambassador's visa as diplomatic tensions escalate",
@@ -36,13 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-07-31T10:32:17+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's president confirms two US government officials were denied visas over election interference fears",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-07-30T15:02:39+00:00",
       "category": "Local Events"
     }
   ]

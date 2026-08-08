@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-07T23:21:53.989229+00:00",
-  "story_count": 6,
+  "last_updated": "2026-08-08T11:28:48.954617+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
@@ -36,13 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-01T22:34:20+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T02:21:29+00:00",
       "category": "Local Events"
     }
   ]

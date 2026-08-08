@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-08T11:28:48.954617+00:00",
+  "last_updated": "2026-08-08T23:15:09.233508+00:00",
   "story_count": 5,
   "stories": [
     {
@@ -25,17 +25,17 @@
       "category": "Diplomacy"
     },
     {
+      "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-08T17:58:42+00:00",
+      "category": "Military"
+    },
+    {
       "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-04T23:13:01+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-01T22:34:20+00:00",
       "category": "Local Events"
     }
   ]

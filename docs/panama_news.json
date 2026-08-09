@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-09T11:29:28.296672+00:00",
-  "story_count": 5,
+  "last_updated": "2026-08-09T23:17:37.892678+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-04T10:56:50+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Ecuador charges ex-minister over presidential candidate assassination case",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-09T15:34:04+00:00",
+      "category": "Military"
     },
     {
       "title": "US offers $1bn to Colombia on new right-wing president's first day of office",

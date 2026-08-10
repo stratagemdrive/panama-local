@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-10T11:47:09.719673+00:00",
-  "story_count": 6,
+  "last_updated": "2026-08-10T23:22:51.477796+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
@@ -25,6 +25,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T12:23:21+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Ecuador charges ex-minister over presidential candidate assassination case",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
@@ -37,6 +44,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-08T17:58:42+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-10T20:55:34+00:00",
+      "category": "Local Events"
     },
     {
       "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",

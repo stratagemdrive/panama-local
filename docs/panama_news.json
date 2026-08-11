@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-10T23:22:51.477796+00:00",
+  "last_updated": "2026-08-11T11:43:26.796660+00:00",
   "story_count": 8,
   "stories": [
     {
@@ -15,13 +15,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy9wpww7dyro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-05T00:16:02+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Guatemala volcano eruption sends lava spewing into the air",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2lqpvv1wlxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T10:56:50+00:00",
       "category": "Diplomacy"
     },
     {
@@ -44,6 +37,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-08T17:58:42+00:00",
       "category": "Military"
+    },
+    {
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T04:06:07+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",

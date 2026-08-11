@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-11T11:43:26.796660+00:00",
-  "story_count": 8,
+  "last_updated": "2026-08-11T23:26:48.592766+00:00",
+  "story_count": 11,
   "stories": [
     {
       "title": "Mexico and Peru restore diplomatic relations after asylum row",
@@ -39,6 +39,34 @@
       "category": "Military"
     },
     {
+      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T21:34:55+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "In shattered Cali, residents search for loved ones and signs of hope",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T19:15:48+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T19:09:52+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Watch: Family escapes home during Colombia earthquake",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-11T10:12:21+00:00",
+      "category": "Local Events"
+    },
+    {
       "title": "At least 132 killed in Colombia's largest  earthquake in years",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
@@ -50,13 +78,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-10T20:55:34+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-04T23:13:01+00:00",
       "category": "Local Events"
     }
   ]

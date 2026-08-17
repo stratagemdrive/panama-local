@@ -1,20 +1,13 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-17T11:26:12.466715+00:00",
-  "story_count": 8,
+  "last_updated": "2026-08-17T23:10:02.788902+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Stolen Matisse artworks recovered by police in Brazil",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-14T10:55:39+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T12:23:21+00:00",
       "category": "Military"
     },
     {
@@ -50,13 +43,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-11T04:06:07+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Moment powerful earthquake shakes Colombia and crumbles buildings",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cz6473llqpwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-10T20:55:34+00:00",
       "category": "Local Events"
     }
   ]

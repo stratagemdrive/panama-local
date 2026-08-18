@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-18T11:26:43.931638+00:00",
-  "story_count": 4,
+  "last_updated": "2026-08-18T23:10:06.354374+00:00",
+  "story_count": 2,
   "stories": [
     {
       "title": "Stolen Matisse artworks recovered by police in Brazil",
@@ -11,25 +11,11 @@
       "category": "Military"
     },
     {
-      "title": "Anguish of Colombian brother at rubble of building being searched for earthquake survivors",
+      "title": "Brazil's President Lula hails oil discovery near Amazon river",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxerlglgw5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T21:34:55+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "In shattered Cali, residents search for loved ones and signs of hope",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckge0e0g95no?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T19:15:48+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T19:09:52+00:00",
-      "category": "Local Events"
+      "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-18T13:13:54+00:00",
+      "category": "Energy"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-17T23:10:02.788902+00:00",
-  "story_count": 6,
+  "last_updated": "2026-08-18T11:26:43.931638+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Stolen Matisse artworks recovered by police in Brazil",
@@ -29,20 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-11T19:09:52+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: Family escapes home during Colombia earthquake",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T10:12:21+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 132 killed in Colombia's largest  earthquake in years",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-11T04:06:07+00:00",
       "category": "Local Events"
     }
   ]

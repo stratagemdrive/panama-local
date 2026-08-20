@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-20T11:28:34.753642+00:00",
-  "story_count": 2,
+  "last_updated": "2026-08-20T23:15:25.400446+00:00",
+  "story_count": 3,
   "stories": [
     {
       "title": "Stolen Matisse artworks recovered by police in Brazil",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-18T13:13:54+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Landslide at unlicensed Colombian gold mine kills 13",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-20T15:07:57+00:00",
+      "category": "Local Events"
     }
   ]
 }

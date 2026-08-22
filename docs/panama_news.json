@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-21T23:11:37.538484+00:00",
-  "story_count": 4,
+  "last_updated": "2026-08-22T11:21:36.112616+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "US sanctions more Cuban companies and officials",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-21T02:06:28+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Peru earthquake damages buildings and causes power cuts",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-21T11:14:38+00:00",
+      "category": "Energy"
     },
     {
       "title": "Brazil's President Lula hails oil discovery near Amazon river",

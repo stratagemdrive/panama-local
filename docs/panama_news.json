@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-27T04:06:47.688087+00:00",
-  "story_count": 4,
+  "last_updated": "2026-08-27T20:55:07.410494+00:00",
+  "story_count": 3,
   "stories": [
     {
       "title": "US sanctions more Cuban companies and officials",
@@ -23,13 +23,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-08-21T06:46:08+00:00",
       "category": "Economy"
-    },
-    {
-      "title": "Landslide at unlicensed Colombian gold mine kills 13",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxel9lz3vqo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-20T15:07:57+00:00",
-      "category": "Local Events"
     }
   ]
 }

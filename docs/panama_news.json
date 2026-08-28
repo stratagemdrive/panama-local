@@ -1,21 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-28T06:24:14.347174+00:00",
-  "story_count": 2,
-  "stories": [
-    {
-      "title": "Peru earthquake damages buildings and causes power cuts",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0km6n3ng7ko?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T11:14:38+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-21T06:46:08+00:00",
-      "category": "Economy"
-    }
-  ]
+  "last_updated": "2026-08-28T21:19:41.617638+00:00",
+  "story_count": 0,
+  "stories": []
 }

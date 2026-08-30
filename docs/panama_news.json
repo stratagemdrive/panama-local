@@ -1,6 +1,14 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-29T15:31:14.019273+00:00",
-  "story_count": 0,
-  "stories": []
+  "last_updated": "2026-08-30T00:49:45.702682+00:00",
+  "story_count": 1,
+  "stories": [
+    {
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-29T19:44:54+00:00",
+      "category": "Energy"
+    }
+  ]
 }

@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-31T00:56:57.635089+00:00",
-  "story_count": 1,
+  "last_updated": "2026-08-31T17:55:50.891881+00:00",
+  "story_count": 2,
   "stories": [
+    {
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-30T04:01:02+00:00",
+      "category": "Energy"
+    },
     {
       "title": "Former Ecuadorian president imprisoned for corruption",
       "source": "BBC News",

@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-08-31T17:55:50.891881+00:00",
-  "story_count": 2,
+  "last_updated": "2026-09-01T01:28:38.938936+00:00",
+  "story_count": 3,
   "stories": [
+    {
+      "title": "Across Latin America, 'aura battles' burst onto the scene",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-08-31T19:11:57+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "source": "BBC News",

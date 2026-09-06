@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-06T00:18:20.960122+00:00",
-  "story_count": 5,
+  "last_updated": "2026-09-06T13:58:47.568907+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Remarkable US oil deal puzzles analysts - and angers many Venezuelans",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-04T06:52:29+00:00",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-08-30T04:01:02+00:00",
       "category": "Energy"
     }
   ]

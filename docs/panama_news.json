@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-12T13:54:17.666760+00:00",
-  "story_count": 2,
+  "last_updated": "2026-09-13T00:28:12.600865+00:00",
+  "story_count": 3,
   "stories": [
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-08T11:09:54+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Fire at nursing home in Chile kills 16 residents",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-12T19:36:50+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Jamaica to hand slavery reparations petition to King Charles",

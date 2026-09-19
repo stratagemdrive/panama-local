@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-19T00:43:43.957062+00:00",
-  "story_count": 4,
+  "last_updated": "2026-09-19T14:12:12.045733+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-14T11:28:36+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-19T10:27:37+00:00",
+      "category": "Energy"
     },
     {
       "title": "Maduro ally pleads guilty in $195m money laundering case in US court",

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-21T00:35:39.336409+00:00",
-  "story_count": 4,
+  "last_updated": "2026-09-21T16:48:59.717149+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
@@ -11,10 +11,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-14T11:28:36+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T12:08:56+00:00",
       "category": "Military"
     },
     {
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-19T10:27:37+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "ICE agent shoots and wounds Venezuelan DoorDash driver in Texas",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-09-21T12:22:06+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Maduro ally pleads guilty in $195m money laundering case in US court",

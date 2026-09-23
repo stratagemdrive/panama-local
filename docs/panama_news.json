@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-22T15:26:15.239804+00:00",
-  "story_count": 4,
+  "last_updated": "2026-09-23T00:59:30.686427+00:00",
+  "story_count": 3,
   "stories": [
     {
       "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
@@ -22,13 +22,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-21T12:22:06+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maduro ally pleads guilty in $195m money laundering case in US court",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx5yl2980pzmo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-15T23:33:19+00:00",
       "category": "Local Events"
     }
   ]

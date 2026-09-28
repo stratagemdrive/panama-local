@@ -1,15 +1,8 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-28T01:15:03.100935+00:00",
-  "story_count": 5,
+  "last_updated": "2026-09-28T18:30:44.462121+00:00",
+  "story_count": 3,
   "stories": [
-    {
-      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-21T12:08:56+00:00",
-      "category": "Military"
-    },
     {
       "title": "Venezuela releases dozens of political prisoners as election calls grow",
       "source": "BBC News",
@@ -29,13 +22,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqe8xl265dp9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-24T12:10:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICE agent shoots and wounds Venezuelan DoorDash driver in Texas",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-21T12:22:06+00:00",
       "category": "Local Events"
     }
   ]

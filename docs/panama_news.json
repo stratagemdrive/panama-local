@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-09-29T16:55:08.545607+00:00",
-  "story_count": 5,
+  "last_updated": "2026-09-30T01:41:07.835451+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqe8xl265dp9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-24T12:10:57+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Texas ICE shooting leaves Venezuelan DoorDash driver with bullet in his back, says lawyer",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z25v0zjwo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-22T17:17:01+00:00",
       "category": "Local Events"
     }
   ]

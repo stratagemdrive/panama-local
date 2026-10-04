@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-03T15:04:20.943765+00:00",
-  "story_count": 4,
+  "last_updated": "2026-10-04T02:11:44.422843+00:00",
+  "story_count": 3,
   "stories": [
     {
       "title": "More than 5,000 people killed or injured in Haiti due to gang violence this year, UN says",
@@ -22,13 +22,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-09-27T15:56:25+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's Lula bans online gambling ahead of presidential election",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-26T15:46:40+00:00",
       "category": "Local Events"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-06T02:33:56.336147+00:00",
-  "story_count": 4,
+  "last_updated": "2026-10-06T17:03:28.233257+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
@@ -18,17 +18,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+      "title": "Watch: How Brazil's dramatic election unfolded",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-09-29T03:50:40+00:00",
-      "category": "Energy"
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-05T04:51:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What to know about Brazil's election pitting Lula against Flávio Bolsonaro",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-04T11:03:20+00:00",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why has Brazil accused the US of election interference?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-03T13:52:13+00:00",
       "category": "Local Events"
     }
   ]

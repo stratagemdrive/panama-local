@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-08T02:19:07.102251+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-08T17:45:26.224995+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
@@ -16,6 +16,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cmy0z00wr14xo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-02T10:22:52+00:00",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-08T17:38:59+00:00",
+      "category": "Energy"
     },
     {
       "title": "Watch: How Brazil's dramatic election unfolded",

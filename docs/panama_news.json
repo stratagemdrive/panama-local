@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-12T01:52:38.558078+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-12T20:09:10.684961+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Flávio Bolsonaro rides right-wing wave to win first round of Brazil election",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-09T16:32:22+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: How Brazil's dramatic election unfolded",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-05T04:51:24+00:00",
       "category": "Local Events"
     }
   ]

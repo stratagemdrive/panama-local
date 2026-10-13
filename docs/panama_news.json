@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-13T03:14:33.561274+00:00",
-  "story_count": 3,
+  "last_updated": "2026-10-13T18:00:00.177365+00:00",
+  "story_count": 4,
   "stories": [
+    {
+      "title": "Mexican gang kidnaps officials to force detained member's release",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjxnm1y02po?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T12:55:14+00:00",
+      "category": "Military"
+    },
     {
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
       "source": "BBC News",

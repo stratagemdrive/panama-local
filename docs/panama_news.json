@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-13T18:00:00.177365+00:00",
-  "story_count": 4,
+  "last_updated": "2026-10-14T01:27:06.773458+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Mexican gang kidnaps officials to force detained member's release",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c5zjxnm1y02po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-13T12:55:14+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-13T17:36:43+00:00",
+      "category": "Energy"
     },
     {
       "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",

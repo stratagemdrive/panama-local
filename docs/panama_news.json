@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-14T01:27:06.773458+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-14T15:43:05.346027+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Mexican gang kidnaps officials to force detained member's release",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-08T17:38:59+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T11:17:51+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",

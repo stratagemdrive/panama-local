@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-15T01:00:42.901595+00:00",
-  "story_count": 6,
+  "last_updated": "2026-10-15T15:31:34.907523+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Mexican gang kidnaps officials to force detained member's release",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-08T17:38:59+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "What we know about the Pope's lung cancer diagnosis",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-14T12:37:33+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",

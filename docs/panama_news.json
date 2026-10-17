@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-17T00:51:27.780825+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-17T14:04:41.416808+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "Mexican gang kidnaps officials to force detained member's release",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/c5zjxnm1y02po?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-13T12:55:14+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-17T02:33:09+00:00",
+      "category": "Energy"
     },
     {
       "title": "Argentina targets UK in legal claim over Falklands oil exploration",

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-16T15:17:57.552918+00:00",
-  "story_count": 7,
+  "last_updated": "2026-10-17T00:51:27.780825+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "Mexican gang kidnaps officials to force detained member's release",
@@ -36,20 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-14T11:17:51+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Powerful magnitude 7.7 earthquake hits Panama, damaging buildings",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T21:26:30+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Man named Hitler Mussolini elected mayor in Peru",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-09T16:32:22+00:00",
       "category": "Local Events"
     }
   ]

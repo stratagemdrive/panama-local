@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-19T00:33:37.166381+00:00",
-  "story_count": 6,
+  "last_updated": "2026-10-19T17:20:49.941518+00:00",
+  "story_count": 7,
   "stories": [
     {
       "title": "Mexican gang kidnaps officials to force detained member's release",
@@ -23,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-13T17:36:43+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-19T11:41:24+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Maduro pleads not guilty to new torture-related charges in New York",

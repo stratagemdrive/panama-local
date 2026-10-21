@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-21T01:04:07.099745+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-21T15:50:47.973951+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "Brazil sees record fall in Amazon deforestation as key election looms",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-17T02:33:09+00:00",
       "category": "Energy"
+    },
+    {
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-21T02:37:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Personal attacks fire up debate before Brazil's run-off vote",
@@ -22,20 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-15T16:52:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know about the Pope's lung cancer diagnosis",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwyvrmp9qgrgo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T12:37:33+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-14T11:17:51+00:00",
       "category": "Local Events"
     }
   ]

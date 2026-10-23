@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-22T15:47:55.416405+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-23T01:02:56.214724+00:00",
+  "story_count": 4,
   "stories": [
     {
       "title": "El Salvador's president threatens Haitian gangs over military hostages",
@@ -29,13 +29,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-19T11:41:24+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maduro pleads not guilty to new torture-related charges in New York",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-15T16:52:44+00:00",
       "category": "Local Events"
     }
   ]

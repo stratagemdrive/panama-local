@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-24T14:17:34.969583+00:00",
-  "story_count": 4,
+  "last_updated": "2026-10-25T00:37:05.852828+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "El Salvador's president threatens Haitian gangs over military hostages",
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-22T10:17:48+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Who are the candidates in Brazil's presidential election?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-24T22:08:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "How Brazil's changing working class is reshaping the presidential race",

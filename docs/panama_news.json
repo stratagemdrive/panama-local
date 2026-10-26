@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-26T00:47:32.072147+00:00",
+  "last_updated": "2026-10-26T17:08:40.469854+00:00",
   "story_count": 5,
   "stories": [
     {
@@ -9,6 +9,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-22T10:17:48+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Lula faces hostile congress and divided country after Brazil election win",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T03:55:13+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Who are the candidates in Brazil's presidential election?",
@@ -29,13 +36,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-21T02:37:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Personal attacks fire up debate before Brazil's run-off vote",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-19T11:41:24+00:00",
       "category": "Local Events"
     }
   ]

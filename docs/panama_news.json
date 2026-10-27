@@ -1,14 +1,28 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-26T17:08:40.469854+00:00",
-  "story_count": 5,
+  "last_updated": "2026-10-27T01:39:24.334021+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T15:37:33+00:00",
+      "category": "Military"
+    },
     {
       "title": "El Salvador's president threatens Haitian gangs over military hostages",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-22T10:17:48+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-26T21:02:47+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lula faces hostile congress and divided country after Brazil election win",

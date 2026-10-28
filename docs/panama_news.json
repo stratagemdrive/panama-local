@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-28T01:51:01.497408+00:00",
-  "story_count": 9,
+  "last_updated": "2026-10-28T17:00:54.994403+00:00",
+  "story_count": 8,
   "stories": [
+    {
+      "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/ck5yn5rlz978o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-27T20:52:30+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
       "source": "BBC News",
@@ -50,20 +57,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-24T05:05:44+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Watch: How Trump's mass deportation drive is playing out in Ohio",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/ckzd6jm04me9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T16:08:54+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-21T02:37:13+00:00",
       "category": "Local Events"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-28T17:00:54.994403+00:00",
-  "story_count": 8,
+  "last_updated": "2026-10-29T01:58:39.897646+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
@@ -30,6 +30,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-22T10:17:48+00:00",
       "category": "Military"
+    },
+    {
+      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-28T16:30:29+00:00",
+      "category": "Local Events"
     },
     {
       "title": "Lula wins fourth term in dramatic Brazil election comeback",

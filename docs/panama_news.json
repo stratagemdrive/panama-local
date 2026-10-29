@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-29T01:58:39.897646+00:00",
-  "story_count": 9,
+  "last_updated": "2026-10-29T17:19:10.236446+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
@@ -18,6 +18,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T06:24:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
@@ -25,11 +32,11 @@
       "category": "Military"
     },
     {
-      "title": "El Salvador's president threatens Haitian gangs over military hostages",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-22T10:17:48+00:00",
-      "category": "Military"
+      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T14:58:28+00:00",
+      "category": "Local Events"
     },
     {
       "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",

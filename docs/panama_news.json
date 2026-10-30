@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-29T17:19:10.236446+00:00",
-  "story_count": 10,
+  "last_updated": "2026-10-30T02:12:10.121543+00:00",
+  "story_count": 11,
   "stories": [
+    {
+      "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c893zev54341o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-10-29T20:35:05+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "'You're lying' - US and Cuban officials get into shouting match at UN",
       "source": "BBC News",

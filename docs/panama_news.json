@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-31T01:56:21.235313+00:00",
-  "story_count": 11,
+  "last_updated": "2026-10-31T15:57:35.654200+00:00",
+  "story_count": 10,
   "stories": [
     {
       "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
@@ -71,13 +71,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-24T22:08:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Brazil's changing working class is reshaping the presidential race",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T05:05:44+00:00",
       "category": "Local Events"
     }
   ]

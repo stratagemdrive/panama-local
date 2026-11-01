@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-10-31T15:57:35.654200+00:00",
-  "story_count": 10,
+  "last_updated": "2026-11-01T01:33:58.453374+00:00",
+  "story_count": 9,
   "stories": [
     {
       "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
@@ -64,13 +64,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-26T03:55:13+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the candidates in Brazil's presidential election?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-24T22:08:47+00:00",
       "category": "Local Events"
     }
   ]

@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-02T01:55:55.369370+00:00",
-  "story_count": 9,
+  "last_updated": "2026-11-02T20:38:28.630273+00:00",
+  "story_count": 8,
   "stories": [
     {
       "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
@@ -25,17 +25,17 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Baby among four killed in bomb attack in western Colombia, official says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-02T15:08:56+00:00",
+      "category": "Military"
+    },
+    {
       "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-29T06:24:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T15:37:33+00:00",
       "category": "Military"
     },
     {
@@ -57,13 +57,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-26T21:02:47+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula faces hostile congress and divided country after Brazil election win",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T03:55:13+00:00",
       "category": "Local Events"
     }
   ]

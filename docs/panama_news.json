@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-02T20:38:28.630273+00:00",
-  "story_count": 8,
+  "last_updated": "2026-11-03T03:45:28.712278+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
@@ -15,13 +15,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/ck5yn5rlz978o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-27T20:52:30+00:00",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-27T01:46:38+00:00",
       "category": "Diplomacy"
     },
     {
@@ -50,13 +43,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-28T16:30:29+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-26T21:02:47+00:00",
       "category": "Local Events"
     }
   ]

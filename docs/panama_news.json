@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-04T02:46:36.478950+00:00",
-  "story_count": 5,
+  "last_updated": "2026-11-04T18:29:25.400723+00:00",
+  "story_count": 6,
   "stories": [
     {
       "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
@@ -25,17 +25,24 @@
       "category": "Military"
     },
     {
+      "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T20:38:38+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King says slave trade a 'shameful chapter' that 'fills my heart with horror'",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9wwwq7jko?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-03T16:57:57+00:00",
+      "category": "Economy"
+    },
+    {
       "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-10-29T14:58:28+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "What we know as Flávio Bolsonaro lands in US after Brazil election loss",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-28T16:30:29+00:00",
       "category": "Local Events"
     }
   ]

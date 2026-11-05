@@ -1,7 +1,7 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-05T02:55:36.138786+00:00",
-  "story_count": 6,
+  "last_updated": "2026-11-05T18:32:49.919398+00:00",
+  "story_count": 5,
   "stories": [
     {
       "title": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
@@ -15,13 +15,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-02T15:08:56+00:00",
-      "category": "Military"
-    },
-    {
-      "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T06:24:56+00:00",
       "category": "Military"
     },
     {
@@ -39,10 +32,10 @@
       "category": "Economy"
     },
     {
-      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-10-29T14:58:28+00:00",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T17:40:40+00:00",
       "category": "Local Events"
     }
   ]

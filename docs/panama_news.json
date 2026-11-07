@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-07T02:25:19.286856+00:00",
-  "story_count": 5,
+  "last_updated": "2026-11-07T16:45:20.048103+00:00",
+  "story_count": 7,
   "stories": [
+    {
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T06:59:48+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
       "source": "BBC News",
@@ -16,6 +23,13 @@
       "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-02T15:08:56+00:00",
       "category": "Military"
+    },
+    {
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-07T07:20:00+00:00",
+      "category": "Economy"
     },
     {
       "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",

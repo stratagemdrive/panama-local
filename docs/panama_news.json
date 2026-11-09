@@ -1,8 +1,22 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-09T02:08:22.385828+00:00",
-  "story_count": 7,
+  "last_updated": "2026-11-09T21:18:26.444198+00:00",
+  "story_count": 9,
   "stories": [
+    {
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-09T19:09:27+00:00",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope delivers veiled rebuke of Milei's austerity measures",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckj0l082jqzvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-09T05:30:37+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pope in 'pretty good health' as he starts Latin America tour",
       "source": "BBC News",
@@ -18,17 +32,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Baby among four killed in bomb attack in western Colombia, official says",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqn06n30l406o?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-02T15:08:56+00:00",
-      "category": "Military"
-    },
-    {
       "title": "Paraguay's president impeached and under house arrest after bank collapse",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-07T07:20:00+00:00",
+      "category": "Economy"
+    },
+    {
+      "title": "King relishes 'politically charged' deployments, Palace aide says",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8n5vvr906dvo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-05T22:04:44+00:00",
       "category": "Economy"
     },
     {

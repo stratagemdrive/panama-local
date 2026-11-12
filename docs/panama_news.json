@@ -1,6 +1,6 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-12T03:27:18.449533+00:00",
+  "last_updated": "2026-11-12T18:43:19.170769+00:00",
   "story_count": 9,
   "stories": [
     {
@@ -32,6 +32,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-12T13:58:49+00:00",
+      "category": "Military"
+    },
+    {
       "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
@@ -57,13 +64,6 @@
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c6e3d895zne7o?at_medium=RSS&at_campaign=rss",
       "published_date": "2026-11-11T11:34:50+00:00",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paraguay President Santiago Peña resigns after bank collapse",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-      "published_date": "2026-11-05T17:40:40+00:00",
       "category": "Local Events"
     }
   ]

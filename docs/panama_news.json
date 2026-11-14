@@ -1,8 +1,15 @@
 {
   "country": "Panama",
-  "last_updated": "2026-11-13T18:24:47.236076+00:00",
-  "story_count": 7,
+  "last_updated": "2026-11-14T02:45:43.466185+00:00",
+  "story_count": 8,
   "stories": [
+    {
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "published_date": "2026-11-13T18:34:45+00:00",
+      "category": "Diplomacy"
+    },
     {
       "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
       "source": "BBC News",
